@@ -26,19 +26,19 @@ html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url("/revised/images/IMG_4211.jpeg");
+  background-image: url("/revised/Amanda_Portfolio/images/IMG_4211.jpeg");
   min-height: 90%;
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("/revised/images/DSC_9648.jpg");
+  background-image: url("/revised/Amanda_Portfolio/images/DSC_9648.jpg");
   min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("/revised/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg");
+  background-image: url("/revised/Amanda_Portfolio/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg");
   min-height: 400px;
 }
 
